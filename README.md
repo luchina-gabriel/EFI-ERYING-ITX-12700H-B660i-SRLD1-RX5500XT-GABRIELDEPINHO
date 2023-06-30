@@ -59,7 +59,7 @@ BIOS [E1.0G|2023-03-07]
 - Advanced > USB Confiuration > XHCI Hand-off : Enabled
 - Turbo > Memory Profile : XMP Profile 1
 - Startup > Full Screen Logo Show : Disabled
-- Startup > Fast Boot : Enabled
+- Startup > Fast Boot : Disabled
 - Startup > Boot Option Priorities : Pendrive of Opencore
 - Security > Secure Boot > Secure Boot : Disabled
 - Exit > Save Changes and Exit
